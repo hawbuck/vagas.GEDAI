@@ -1,0 +1,23 @@
+DETALHAMENTO DO PROJETO
+
+1 Levantamento de dados
+2 Análise do problema
+3 Busca e debate de ferramentas
+4 Pesquisa e desenvolvimento do esboço da interface prévia
+5 Documentação
+6 Desenvolvimento da base do sistema
+7 Desenvolvimento da interface
+  7.1 Uso de UX/UI
+  7.2 Responsividade
+  7.3 Pesquisa com usuários
+  7.4 Desenvolvimento da logo, logotipo e nome
+  7.5 Finalização da interface beta
+8 Desenvolvimento do Banco de Dados:
+  8.1 Entidade/Relacionamento
+  8.2 Criação e modificação de tabelas
+  8.3 Finalização da estrutura do Database
+9 Desenvolvimento do código Server-side
+  9.1 Criação e desenvolvimento da aplicação beta usando a interface beta e relacionando com o Banco
+  9.2 Resolução de conflito com a interface ou com o Database
+  9.3 Criação de domínio, personalização de preferencias do servidor e hospedagem definitiva
+  9.4 Finalização da versão beta e inicialização dos testes com usuários
