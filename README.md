@@ -6,3 +6,5 @@ Ferramentas a serem usada: PHP, HTML 5, CSS 3, JavaScript, SQL, Apache, Bootstra
 Prazo: Junho de 2018
 
 Equipe: Danilo Rodrigues, Dáwid Oliveira, João Marcos, Luiz Fernando e Pedro Afonso.
+
+Novo nome: GiveMeJobs
